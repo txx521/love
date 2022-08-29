@@ -1,0 +1,14 @@
+{
+"app_id": "wxa82a5e4072a19a50",
+"app_secret": "9253c2c5d273a0257152f9600fd495ce",
+"template_id": "cp_F7QlK83Q4MSgs5AnfsUg-0idmOFqnreMQyuWmtOQ",
+"user": ["oDTqC6rf6AXehnQ6yAL5wClzgaN0"，"oDTqC6kTkhada3NeouqOUhsEtTV8"],
+"weather_key": "2b1920cafff64dd783a1dcb3cb4f84d9",
+"tian_api": "859645ff2ef55d957543733390aca8b1",
+"region": "钱塘区",
+"birthday1": {"name": "梁缘", "birthday": "2003-06-19"},
+"birthday2": {"name": "糖心心", "birthday": "2004-02-24"},
+"love_date": "2022-08-18",
+"note_ch": "我的宝宝今天要记得想我哦",
+"note_en": ""
+}
